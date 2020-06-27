@@ -42,3 +42,5 @@ console.log(`https://someurl.com/${category}/5`); // Чтобы использо
 const user = "Ivan";
 
 alert(`Привет, ${user}`);
+
+lol
